@@ -1,0 +1,10 @@
+blackbird
+blackcap
+blue_tit
+chaffinch
+great_tit
+greenfinch
+nightingale
+robin
+song_thrush
+wren

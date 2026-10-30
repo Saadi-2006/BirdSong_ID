@@ -1,0 +1,7 @@
+numpy
+librosa
+soundfile
+gradio
+scikit-learn
+matplotlib
+pillow
